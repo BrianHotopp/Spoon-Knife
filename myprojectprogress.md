@@ -1,0 +1,1 @@
+I'd like to organize my project as a blessed repository. I believe that having a blessed repository can keep a project focused, while also keeping the projects most knowledgeable members in the loop so they can help contributors avoid design decision pitfalls.
